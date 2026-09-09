@@ -7,25 +7,25 @@
 
 <br><br>
 
-🔭 Actualmente trabajando en **Motion Manager**, una plataforma de seguimiento de flotas vehiculares (React/TypeScript + FastAPI)
+🔭 Currently working on **Motion Manager**, a vehicle fleet tracking platform (React/TypeScript + FastAPI)
 
 💻 Full Stack: React, TypeScript, Angular, Node.js, Next.js, Python, FastAPI
 
-☁️ Cloud & Datos: AWS (Lambda, API Gateway, RDS, S3, CloudWatch, CDK), SQL, Apache Airflow
+☁️ Cloud & Data: AWS (Lambda, API Gateway, RDS, S3, CloudWatch, CDK), SQL, Apache Airflow
 
-🧪 QA & Testing: Katalon Studio, pytest, automatización de pruebas
+🧪 QA & Testing: Katalon Studio, pytest, test automation
 
-🌱 Profundizando en integraciones geoespaciales (Google Maps API, Wialon) y flujos de desarrollo asistido por IA
+🌱 Diving deeper into geospatial integrations (Google Maps API, Wialon) and AI-assisted development workflows
 
-🎓 Tecnólogo en Análisis y Desarrollo de Software — SENA
+🎓 Software Analysis & Development Technologist 
 
-🤝 Disponible para freelance
+🤝 Open to freelance work
 
-💬 Pregúntame sobre **React, TypeScript, Python, SQL & AWS**
+💬 Ask me about **React, TypeScript, Python, SQL & AWS**
 
-📫 Cómo contactarme: **juanchotv123@gmail.com**
+📫 Reach me at: **juanchotv123@gmail.com**
 
-📄 Conoce mi experiencia: <a href="#" target="blank">Resume</a>
+📄 Check out my experience: <a href="#" target="blank">Resume</a>
 
 <br clear="both"> <h3 align="center">🛠 Tech Stack</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,angular,nodejs,nextjs,py,fastapi,mysql,aws,docker,git,postman,vscode,linux,discord&perline=8" alt="Tech stack icons" /> </p> <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3> <p align="center"> <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/juan-david-cardenas-perez-1a3980169"> <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a> <a style="margin-left: 10px;" target="_blank" href="https://github.com/JuanCardenas1604"> <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a> <a style="margin-left: 10px;" target="_blank" href="mailto:juanchotv123@gmail.com"> <img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png"></a> </p>
 

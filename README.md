@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/074bef5d-a353-49d9-ab2a-3c131274889c" width="100%" height="240" style="object-fit: cover; object-position: center;" alt="Juan Cardenas">
 </p>
 
-<h1 align="center">Hi 👋, I'm Juan Cardenas</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Juan Cardenas</h1>
 <h3 align="center">Software developer focused on business logic, data analysis & cloud solutions on AWS</h3>
 
 <br><br>

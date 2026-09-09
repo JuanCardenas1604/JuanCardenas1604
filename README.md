@@ -27,26 +27,7 @@
 
 📄 Conoce mi experiencia: <a href="#" target="blank">Resume</a>
 
-<br clear="both">
-
-<h3 align="center">🛠 Tech Stack</h3>
-
-<p align="center">
-  <img src="" alt="Tech stack icons" />
-</p>
-
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
-
-<p align="center">
-
-  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/juan-david-cardenas-perez-1a3980169">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-  <a style="margin-left: 10px;" target="_blank" href="https://github.com/JuanCardenas1604">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-  <a style="margin-left: 10px;" target="_blank" href="mailto:juanchotv123@gmail.com">
-    <img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png"></a>
-
-</p>
+<br clear="both"> <h3 align="center">🛠 Tech Stack</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,angular,nodejs,nextjs,py,fastapi,mysql,aws,docker,git,postman,vscode,linux,discord&perline=8" alt="Tech stack icons" /> </p> <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3> <p align="center"> <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/juan-david-cardenas-perez-1a3980169"> <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a> <a style="margin-left: 10px;" target="_blank" href="https://github.com/JuanCardenas1604"> <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a> <a style="margin-left: 10px;" target="_blank" href="mailto:juanchotv123@gmail.com"> <img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png"></a> </p>
 
 ### 📊 Github Profile Summary Card
 

@@ -7,32 +7,32 @@
 
 <br><br>
 
-- 🔭 Actualmente trabajando en **Motion Manager**, una plataforma de seguimiento de flotas vehiculares (React/TypeScript + FastAPI)
+🔭 Actualmente trabajando en **Motion Manager**, una plataforma de seguimiento de flotas vehiculares (React/TypeScript + FastAPI)
 
-- 💻 Full Stack: React, TypeScript, Angular, Node.js, Next.js, Python, FastAPI
+💻 Full Stack: React, TypeScript, Angular, Node.js, Next.js, Python, FastAPI
 
-- ☁️ Cloud & Datos: AWS (Lambda, API Gateway, RDS, S3, CloudWatch, CDK), SQL, Apache Airflow
+☁️ Cloud & Datos: AWS (Lambda, API Gateway, RDS, S3, CloudWatch, CDK), SQL, Apache Airflow
 
-- 🧪 QA & Testing: Katalon Studio, pytest, automatización de pruebas
+🧪 QA & Testing: Katalon Studio, pytest, automatización de pruebas
 
-- 🌱 Profundizando en integraciones geoespaciales (Google Maps API, Wialon) y flujos de desarrollo asistido por IA
+🌱 Profundizando en integraciones geoespaciales (Google Maps API, Wialon) y flujos de desarrollo asistido por IA
 
-- 🎓 Tecnólogo en Análisis y Desarrollo de Software — SENA
+🎓 Tecnólogo en Análisis y Desarrollo de Software — SENA
 
-- 🤝 Disponible para freelance
+🤝 Disponible para freelance
 
-- 💬 Pregúntame sobre **React, TypeScript, Python, SQL & AWS**
+💬 Pregúntame sobre **React, TypeScript, Python, SQL & AWS**
 
-- 📫 Cómo contactarme: **juanchotv123@gmail.com**
+📫 Cómo contactarme: **juanchotv123@gmail.com**
 
-- 📄 Conoce mi experiencia: <a href="#" target="blank">Resume</a>
+📄 Conoce mi experiencia: <a href="#" target="blank">Resume</a>
 
 <br clear="both">
 
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,angular,nodejs,nextjs,py,fastapi,mysql,aws,docker,git,postman,vscode,linux,discord&perline=8" alt="Tech stack icons" />
+  <img src="" alt="Tech stack icons" />
 </p>
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
